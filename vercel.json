@@ -1,0 +1,4 @@
+{
+    "bulidCommand": "npm run build",
+    "outputDirectory": "dist"
+}
