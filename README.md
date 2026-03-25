@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Navbar com efeito flutuante
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Marcela-LP
+>>>>>>> af171d65d509a8ea26563c52f70cc9475771e032
